@@ -1,0 +1,11 @@
+D:\Coding\C#\CNTT3\ListView\FormBanHang\bin\Debug\FormBanHang.exe.config
+D:\Coding\C#\CNTT3\ListView\FormBanHang\bin\Debug\FormBanHang.exe
+D:\Coding\C#\CNTT3\ListView\FormBanHang\bin\Debug\FormBanHang.pdb
+D:\Coding\C#\CNTT3\ListView\FormBanHang\obj\Debug\FormBanHang.csproj.AssemblyReference.cache
+D:\Coding\C#\CNTT3\ListView\FormBanHang\obj\Debug\FormBanHang.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\CNTT3\ListView\FormBanHang\obj\Debug\FormBanHang.Form1.resources
+D:\Coding\C#\CNTT3\ListView\FormBanHang\obj\Debug\FormBanHang.Properties.Resources.resources
+D:\Coding\C#\CNTT3\ListView\FormBanHang\obj\Debug\FormBanHang.csproj.GenerateResource.cache
+D:\Coding\C#\CNTT3\ListView\FormBanHang\obj\Debug\FormBanHang.csproj.CoreCompileInputs.cache
+D:\Coding\C#\CNTT3\ListView\FormBanHang\obj\Debug\FormBanHang.exe
+D:\Coding\C#\CNTT3\ListView\FormBanHang\obj\Debug\FormBanHang.pdb
